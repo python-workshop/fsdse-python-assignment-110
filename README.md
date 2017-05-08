@@ -1,1 +1,1 @@
-# fsdse-python-assignment-110
+# Remove specified characters in a string
